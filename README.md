@@ -11,15 +11,15 @@ Check out my progress details ```👇```
 
 * ### Week 1 ![Progress](http://progressed.io/bar/100?title=Completion)  
 	* #### Introduction ![](/README.MD-Resources/checked-15px.png)
-  * #### Linear Regression with One Variable ![](/README.MD-Resources/checked-15px.png)
+  	* #### Linear Regression with One Variable ![](/README.MD-Resources/checked-15px.png)
 	* #### Linear Algebra Review ![](/README.MD-Resources/checked-15px.png)
 
 * ### Week 2 ![Progress](http://progressed.io/bar/100?title=Completion)
 	* #### Linear Regression with Multiple Variables ![](/README.MD-Resources/checked-15px.png)
 	* #### Octave/Matlab Review ![](/README.MD-Resources/checked-15px.png)
-  * #### Programming Assignment: <a href="https://github.com/jeury301/ml-coursera/tree/master/programming-exercises/submissions/machine-learning-ex1">Linear Regression</a> ![](/README.MD-Resources/checked-15px.png)
+  	* #### Programming Assignment: <a href="https://github.com/jeury301/ml-coursera/tree/master/programming-exercises/submissions/machine-learning-ex1">Linear Regression</a> ![](/README.MD-Resources/checked-15px.png)
 
 * ### Week 3 ![Progress](http://progressed.io/bar/0?title=Completion)
 	* #### Logistic Regression
 	* #### Regularization
-  * #### Programming Assignment: <a href="#">Logistic Regression</a>
+  	* #### Programming Assignment: <a href="#">Logistic Regression</a>
