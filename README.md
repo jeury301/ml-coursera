@@ -9,17 +9,17 @@ Check out my progress details ```👇```
 
 # Topics covered and Progress
 
-* ### Week 1
-	* #### Introduction ![Progress](http://progressed.io/bar/100?title=Completion)  
-    * #### Linear Regression with One Variable ![Progress](http://progressed.io/bar/100?title=Completion)  
-	* #### Linear Algebra Review ![Progress](http://progressed.io/bar/100?title=Completion)
+* ### Week 1 ![Progress](http://progressed.io/bar/100?title=Completion)  
+	* #### Introduction ![](/README.MD-Resources/checked-20px.png)
+    * #### Linear Regression with One Variable ![](/README.MD-Resources/checked-20px.png)
+	* #### Linear Algebra Review ![](/README.MD-Resources/checked-20px.png)
 
-* ### Week 2
-	* #### Linear Regression with Multiple Variables ![Progress](http://progressed.io/bar/100?title=Completion)
-	* #### Octave/Matlab Review ![Progress](http://progressed.io/bar/100?title=Completion)
-    * #### Programming Assignment: <a href="https://github.com/jeury301/ml-coursera/tree/master/programming-exercises/submissions/machine-learning-ex1">Linear Regression</a> ![Progress](http://progressed.io/bar/100?title=Completion)
+* ### Week 2 ![Progress](http://progressed.io/bar/100?title=Completion)
+	* #### Linear Regression with Multiple Variables ![](/README.MD-Resources/checked-20px.png)
+	* #### Octave/Matlab Review ![](/README.MD-Resources/checked-20px.png)
+  * #### Programming Assignment: <a href="https://github.com/jeury301/ml-coursera/tree/master/programming-exercises/submissions/machine-learning-ex1">Linear Regression</a> ![](/README.MD-Resources/checked-20px.png)
 
-* ### Week 3
-	* #### Logistic Regression ![Progress](http://progressed.io/bar/0?title=Completion)
-	* #### Regularization ![Progress](http://progressed.io/bar/0?title=Completion)
-    * #### Programming Assignment: <a href="#">Logistic Regression</a> ![Progress](http://progressed.io/bar/0?title=Completion)
+* ### Week 3 ![Progress](http://progressed.io/bar/0?title=Completion)
+	* #### Logistic Regression
+	* #### Regularization
+    * #### Programming Assignment: <a href="#">Logistic Regression</a>
