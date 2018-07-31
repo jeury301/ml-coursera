@@ -9,17 +9,17 @@ Check out my progress details ```👇```
 
 # Topics covered and Progress
 
-* ### Week 1 ![Progress](http://progressed.io/bar/100?title=Completion)  
+* ### <a href="https://github.com/jeury301/ml-coursera/blob/master/lecture-notes/Week-1.pdf">Week 1</a> ![Progress](http://progressed.io/bar/100?title=Completion)  
 	* #### Introduction ![](/README.MD-Resources/checked-15px.png)
   	* #### Linear Regression with One Variable ![](/README.MD-Resources/checked-15px.png)
 	* #### Linear Algebra Review ![](/README.MD-Resources/checked-15px.png)
 
-* ### Week 2 ![Progress](http://progressed.io/bar/100?title=Completion)
+* ### <a href="https://github.com/jeury301/ml-coursera/blob/master/lecture-notes/Week-2.pdf">Week 2</a> ![Progress](http://progressed.io/bar/100?title=Completion)
 	* #### Linear Regression with Multiple Variables ![](/README.MD-Resources/checked-15px.png)
 	* #### Octave/Matlab Review ![](/README.MD-Resources/checked-15px.png)
   	* #### Programming Assignment: <a href="https://github.com/jeury301/ml-coursera/tree/master/programming-exercises/assignments/machine-learning-ex1">Linear Regression</a> ![](/README.MD-Resources/checked-15px.png)
 
-* ### Week 3 ![Progress](http://progressed.io/bar/0?title=Completion)
+* ### <a href="https://github.com/jeury301/ml-coursera/blob/master/lecture-notes/Week-3.pdf">Week 3</a> ![Progress](http://progressed.io/bar/0?title=Completion)
 	* #### Logistic Regression
 	* #### Regularization
   	* #### Programming Assignment: <a href="#">Logistic Regression</a>
