@@ -17,9 +17,9 @@ Check out my progress details ```👇```
 * ### <a href="https://github.com/jeury301/ml-coursera/blob/master/lecture-notes/Week-2.pdf">Week 2</a> ![Progress](http://progressed.io/bar/100?title=Completion)
 	* #### Linear Regression with Multiple Variables ![](/README.MD-Resources/checked-15px.png)
 	* #### Octave/Matlab Review ![](/README.MD-Resources/checked-15px.png)
-  	* #### Programming Assignment: <a href="https://github.com/jeury301/ml-coursera/tree/master/programming-exercises/assignments/machine-learning-ex1">Linear Regression</a> ![](/README.MD-Resources/checked-15px.png)
+  	* #### Programming Assignment: <a href="https://github.com/jeury301/ml-coursera/tree/master/programming-exercises/submissions/machine-learning-ex1">Linear Regression</a> ![](/README.MD-Resources/checked-15px.png)
 
 * ### <a href="https://github.com/jeury301/ml-coursera/blob/master/lecture-notes/Week-3.pdf">Week 3</a> ![Progress](http://progressed.io/bar/100?title=Completion)
 	* #### Logistic Regression ![](/README.MD-Resources/checked-15px.png)
 	* #### Regularization ![](/README.MD-Resources/checked-15px.png)
-  	* #### Programming Assignment: <a href="https://github.com/jeury301/ml-coursera/tree/master/programming-exercises/assignments/machine-learning-ex2">Logistic Regression</a> ![](/README.MD-Resources/checked-15px.png)
+  	* #### Programming Assignment: <a href="https://github.com/jeury301/ml-coursera/tree/master/programming-exercises/submissions/machine-learning-ex2">Logistic Regression</a> ![](/README.MD-Resources/checked-15px.png)
