@@ -24,6 +24,6 @@ Check out my progress details ```👇```
 	* #### Regularization ![](/README.MD-Resources/checked-15px.png)
   	* #### Programming Assignment: <a href="https://github.com/jeury301/ml-coursera/tree/master/programming-exercises/submissions/machine-learning-ex2">Logistic Regression</a> ![](/README.MD-Resources/checked-15px.png)
 
-* ### <a href="https://github.com/jeury301/ml-coursera/blob/master/lecture-notes/Week-4.pdf">Week 4</a> ![Progress](http://progressed.io/bar/0?title=Completion)
-	* #### Neural Networks: Representation
+* ### <a href="https://github.com/jeury301/ml-coursera/blob/master/lecture-notes/Week-4.pdf">Week 4</a> ![Progress](http://progressed.io/bar/50?title=Completion)
+	* #### Neural Networks: Representation ![](/README.MD-Resources/checked-15px.png)
 	* #### Programming Assignment: <a href="https://github.com/jeury301/ml-coursera/tree/master/programming-exercises/submissions/machine-learning-ex3">Neural Networks: Multiclass Classification</a>
