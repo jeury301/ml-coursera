@@ -57,14 +57,14 @@ if __name__ == '__main__':
     # price_over_time(TICKER)
 
     # plotting parameters
-    plt.plot(x[:,1], x[:,0], "ro")
-    plt.show()
+    #plt.plot(x[:,1], x[:,0], "ro")
+    #plt.show()
 
-    # # plotting delta_y and y
-    # plt.figure(1)
-    # plt.subplot(211)
-    # plt.plot(y,x[:,0], 'ro')
-    # # plotting payout and y
-    # plt.subplot(212)
-    # plt.plot(y,x[:,1],'yo')
-    # plt.show()
+    # plotting delta_y and y
+    plt.figure(1)
+    plt.subplot(211)
+    plt.plot(y[365:],x[365:,0], 'ro')
+    # plotting payout and y
+    plt.subplot(212)
+    plt.plot(y[365:],x[365:,1],'yo')
+    plt.show()
