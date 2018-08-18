@@ -30,3 +30,8 @@ Check out my progress details ```👇```
 * ### <a href="https://github.com/jeury301/ml-coursera/blob/master/lecture-notes/Week-5.pdf">Week 5</a> ![Progress](http://progressed.io/bar/100?title=Completion)
 	* #### Neural Networks: Learning ![](/README.MD-Resources/checked-15px.png)
 	* #### Programming Assignment: <a href="https://github.com/jeury301/ml-coursera/tree/master/programming-exercises/submissions/machine-learning-ex4">Neural Networks: Learning</a> ![](/README.MD-Resources/checked-15px.png)
+
+* ### <a href="https://github.com/jeury301/ml-coursera/blob/master/lecture-notes/Week-6.pdf">Week 6</a> ![Progress](http://progressed.io/bar/0?title=Completion)
+	* #### Advice for Applying Machine Learning
+	* #### Machine Learning System Design
+	* #### Programming Assignment: <a href="https://github.com/jeury301/ml-coursera/tree/master/programming-exercises/submissions/machine-learning-ex5"> Regularized Linear Regression and Bias/Variance</a>
