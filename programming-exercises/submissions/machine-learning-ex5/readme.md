@@ -1,0 +1,29 @@
+# Linear Regression Diagnosis
+## Completion Proof
+![](completion-proof.png)
+## Figures
+### Predicting water flow using change on water level
+#### Plotting data points...
+![](predicting_water_flow_data_plot.png)
+#### Fitting a straight line...
+![](fitting_straight_line.png)
+#### Plotting Learning Curve...
+![](learning_curve_lr.png)
+### Polynomial Fit - Studying change on Lambda
+#### Setting Lambda = 0
+##### Fitting polynomial hypothesis...
+![](polynomial_regression_fit.png)
+##### Plotting learning curve...
+![](polynomial_learning_curve.png)
+#### Setting Lambda = 1 (Overfitting)
+##### Fitting polynomial hypothesis...
+![](poly_regression_lambda_1.png)
+##### Plotting learning curve...
+![](poly_learning_curve_lambda_1.png)
+#### Setting Lambda = 100 (Underfitting)
+##### Fitting polynomial hypothesis...
+![](poly_regression_lambda_100.png)
+##### Plotting learning curve...
+![](poly_learning_curve_lambda_100.png)
+### Selecting Lambda with cross-validation set
+![](selecting_lambda_with_cv_set.png)
