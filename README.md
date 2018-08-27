@@ -35,6 +35,6 @@ Check out my progress details ```👇```
 	* #### Advice for Applying Machine Learning ![](/README.MD-Resources/checked-15px.png)
 	* #### Machine Learning System Design ![](/README.MD-Resources/checked-15px.png)
 	* #### Programming Assignment: <a href="https://github.com/jeury301/ml-coursera/tree/master/programming-exercises/submissions/machine-learning-ex5/readme.md"> Regularized Linear Regression and Bias/Variance</a> ![](/README.MD-Resources/checked-15px.png)
-* ### <a href="https://github.com/jeury301/ml-coursera/blob/master/lecture-notes/Week-7.pdf">Week 7</a> ![Progress](http://progressed.io/bar/50?title=Completion)
+* ### <a href="https://github.com/jeury301/ml-coursera/blob/master/lecture-notes/Week-7.pdf">Week 7</a> ![Progress](http://progressed.io/bar/100?title=Completion)
 	* #### Support Vector Machine (SVM) ![](/README.MD-Resources/checked-15px.png)
-	* #### Programming Assignment: <a href="https://github.com/jeury301/ml-coursera/tree/master/programming-exercises/submissions/machine-learning-ex6/readme.md"> Support Vector Machines</a> 
+	* #### Programming Assignment: <a href="https://github.com/jeury301/ml-coursera/tree/master/programming-exercises/submissions/machine-learning-ex6/readme.md"> Support Vector Machines</a> ![](/README.MD-Resources/checked-15px.png)
