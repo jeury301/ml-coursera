@@ -39,7 +39,7 @@ Check out my progress details ```👇```
 	* #### Support Vector Machine (SVM) ![](/README.MD-Resources/checked-15px.png)
 	* #### Programming Assignment: <a href="https://github.com/jeury301/ml-coursera/tree/master/programming-exercises/submissions/machine-learning-ex6/readme.md"> Support Vector Machines</a> ![](/README.MD-Resources/checked-15px.png)
 
-* ### <a href="https://github.com/jeury301/ml-coursera/blob/master/lecture-notes/Week-7.pdf">Week 8</a> ![Progress](http://progressed.io/bar/0?title=Completion)
+* ### <a href="https://github.com/jeury301/ml-coursera/blob/master/lecture-notes/Week-8.pdf">Week 8</a> ![Progress](http://progressed.io/bar/0?title=Completion)
 	* #### Unsupervised Learning
 	* #### Dimensionality Reduction
-	* #### Programming Assignment: <a href="https://github.com/jeury301/ml-coursera/tree/master/programming-exercises/submissions/machine-learning-ex7/readme.md"> K-Means Clustering and PCA</a> 
+	* #### Programming Assignment: <a href="https://github.com/jeury301/ml-coursera/tree/master/programming-exercises/submissions/machine-learning-ex7/readme.md"> K-Means Clustering and PCA</a>
