@@ -39,10 +39,10 @@ Check out my progress details ```👇```
 	* #### Support Vector Machine (SVM) ![](/README.MD-Resources/checked-15px.png)
 	* #### Programming Assignment: <a href="https://github.com/jeury301/ml-coursera/tree/master/programming-exercises/submissions/machine-learning-ex6/readme.md"> Support Vector Machines</a> ![](/README.MD-Resources/checked-15px.png)
 
-* ### <a href="https://github.com/jeury301/ml-coursera/blob/master/lecture-notes/Week-8.pdf">Week 8</a> ![Progress](http://progressed.io/bar/66?title=Completion)
+* ### <a href="https://github.com/jeury301/ml-coursera/blob/master/lecture-notes/Week-8.pdf">Week 8</a> ![Progress](http://progressed.io/bar/100?title=Completion)
 	* #### Unsupervised Learning ![](/README.MD-Resources/checked-15px.png)
 	* #### Dimensionality Reduction ![](/README.MD-Resources/checked-15px.png)
-	* #### Programming Assignment: <a href="https://github.com/jeury301/ml-coursera/tree/master/programming-exercises/submissions/machine-learning-ex7/readme.md"> K-Means Clustering and PCA</a>
+	* #### Programming Assignment: <a href="https://github.com/jeury301/ml-coursera/tree/master/programming-exercises/submissions/machine-learning-ex7/readme.md"> K-Means Clustering and PCA</a> ![](/README.MD-Resources/checked-15px.png)
 
 * ### <a href="https://github.com/jeury301/ml-coursera/blob/master/lecture-notes/Week-9.pdf">Week 9</a> ![Progress](http://progressed.io/bar/33?title=Completion)
 	* #### Anomaly Detection ![](/README.MD-Resources/checked-15px.png)
