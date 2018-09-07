@@ -7,12 +7,12 @@
 [![Computing Centroids alpha](https://media.giphy.com/media/pjr37InmdeYbke6XEm/giphy.gif)](https://www.youtube.com/watch?v=tF8odda-FRE)
 #### Image Compression
 ![](k_means_image_compression.png)
-### Principal Component Analysys(PCA)
+### Principal Component Analysis (PCA)
 #### Applying PCA to Unlabeled Dataset
 ![](pca_sample_dataset_1.png)
-#### Computing eigenvectors on unlabeled dataset
+#### Computing Eigenvectors on Unlabeled Dataset
 ![](pca_computed_eigen-vectors_dataset_1.png)
-#### Visualizing Normalized and Projected dataset
+#### Visualizing Normalized and Projected Dataset
 ![](pca_normalized_and_projected_data.png)
 #### Applying PCA to Faces Dataset
 ![](pca_visualizing_face_dataset.png)
