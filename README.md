@@ -48,3 +48,6 @@ Check out my progress details ```👇```
 	* #### Anomaly Detection ![](/README.MD-Resources/checked-15px.png)
 	* #### Recommender Systems ![](/README.MD-Resources/checked-15px.png)
 	* #### Programming Assignment: <a href="https://github.com/jeury301/ml-coursera/tree/master/programming-exercises/submissions/machine-learning-ex8/readme.md"> Anomaly Detection and Recommender Systems</a> ![](/README.MD-Resources/checked-15px.png)
+* ### <a href="https://github.com/jeury301/ml-coursera/blob/master/lecture-notes/Week-10.pdf">Week 10</a> ![Progress](http://progressed.io/bar/100?title=Completion)
+	* #### Gradient Descent with Large Datasets ![](/README.MD-Resources/checked-15px.png)
+	* #### Advanced Topics ![](/README.MD-Resources/checked-15px.png)
