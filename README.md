@@ -1,4 +1,4 @@
-# Machine Learning Stanford [In progress]
+# Machine Learning Stanford
 > Documenting progress in the Machine Learning Course from Stanford - in coursera, as taught by Andrew Ng. This course can be found <a href="https://www.coursera.org/learn/machine-learning/home/welcome" target="_blank">here!</a>
 
 # Description
