@@ -51,3 +51,5 @@ Check out my progress details ```👇```
 * ### <a href="https://github.com/jeury301/ml-coursera/blob/master/lecture-notes/Week-10.pdf">Week 10</a> ![Progress](http://progressed.io/bar/100?title=Completion)
 	* #### Gradient Descent with Large Datasets ![](/README.MD-Resources/checked-15px.png)
 	* #### Advanced Topics ![](/README.MD-Resources/checked-15px.png)
+* ### <a href="https://github.com/jeury301/ml-coursera/blob/master/lecture-notes/Week-11pdf">Week 11</a> ![Progress](http://progressed.io/bar/100?title=Completion)
+	* #### Application Example: OCR ![](/README.MD-Resources/checked-15px.png)
